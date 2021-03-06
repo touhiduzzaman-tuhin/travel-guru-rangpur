@@ -1,9 +1,9 @@
-# Hot Onion Restaurant Rangpur
+# Travel Guru Rangpur
 
 [Website](https://github.com/touhiduzzaman-tuhin/travel-guru-rangpur)
 <img src="https://i.ibb.co/p42nc7B/travel-guru-rangpur-web-app.png">
-Role : Front End Developer
 
+Role : Front End Developer
 
 A front-end Travel-Place app where you can choose your favorite place. You have Many options for different Place. Pay online using your credit card and enjoy Traveling World.
 
