@@ -1,0 +1,10 @@
+.details-area{
+    font-family: Montserrat;
+}
+.details-area p{
+    color : #6A6A6A;
+    line-height: 10px;
+}
+.details-footer span{
+    color : lightgrey;
+}

@@ -1,0 +1,7 @@
+.search-box{
+    border: none;
+    outline: none;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color : black !important;
+}
